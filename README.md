@@ -1,8 +1,7 @@
 JavaScript implementation of de Casteljau algorithm.
-
 It's tiny and useful (less than 0.3KB minified).
 
-###Example of use
+###Exemple of use
 ```html
 <script src="decasteljau.min.js" async></script>
 <script>
@@ -29,7 +28,10 @@ It's tiny and useful (less than 0.3KB minified).
             [200, 100],
             [300, 400],
             [400, 400]
-        ], 0.8);
+        ],
+            //value between 0 and 1, 0 - the beginning of the curve, 1 - the end
+            0.8
+        );
 
         ctx.beginPath();
         ctx.moveTo(point[0], point[1]);
