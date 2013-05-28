@@ -1,7 +1,7 @@
 JavaScript implementation of de Casteljau algorithm.
 It's tiny and useful (less than 0.3KB minified).
 
-###Exemple of use
+###Example of use
 ```html
 <script src="decasteljau.min.js" async></script>
 <script>
