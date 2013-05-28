@@ -3,7 +3,7 @@
      * Recursive implementation of de Casteljau algorithm.
      * If you want to know more about algorith itself check out
      * Wikipedia:
-     * {@link [symbol]}
+     * {@link http://en.wikipedia.org/wiki/De_Casteljau's_algorithm}
      * 
      * @param  {array} points   array of control points of Bezier curve
      * @param  {double} t       value between 0 and 1 - 0 is for the beginning of the curve, 1 is for the end
