@@ -1,6 +1,6 @@
 JavaScript implementation of de Casteljau algorithm.
 It can do some very useful things at the moment:
-- calculate coordinates of any point at the curve
+- calculate coordinates of any point on the curve
 - divide Bezier into two separate curves with given ratio
 
 By the way, it's tiny (less than 0.3KB minified).
@@ -33,7 +33,7 @@ By the way, it's tiny (less than 0.3KB minified).
             [200, 100],
             [300, 400],
             [400, 400]
-        ]
+        ];
         
         /*
         SIMPLE POINT CALCULATION
