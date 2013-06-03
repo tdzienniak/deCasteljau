@@ -3,7 +3,7 @@ It can do some very useful things at the moment:
 - calculate coordinates of any point on the curve
 - divide Bezier into two separate curves with given ratio
 
-By the way, it's tiny (less than 0.3KB minified).
+By the way, it's tiny (less than 0.5KB minified).
 
 ###Example of use
 
