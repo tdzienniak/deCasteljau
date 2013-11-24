@@ -5,7 +5,7 @@ It can do some very useful things at the moment:
 
 By the way, it's tiny (less than 0.5KB minified).
 
-###Example of use
+###Exemple of use
 
 ```html
 <script src="decasteljau.min.js" async></script>
